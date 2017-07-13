@@ -17,7 +17,7 @@ import org.springframework.web.bind.annotation.ResponseStatus;
  *
  * 统一异常处理
  */
-@ControllerAdvice
+//@ControllerAdvice
 public class ControllerHandler {
 
     private final Logger logger = LoggerFactory.getLogger(ControllerHandler.class);

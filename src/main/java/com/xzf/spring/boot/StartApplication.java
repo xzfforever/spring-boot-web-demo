@@ -12,14 +12,4 @@ public class StartApplication {
 		SpringApplication.run(StartApplication.class, args);
 	}
 
-/*	@Bean
-	public UrlBasedViewResolver UrlBasedViewResolverviewResolver(){
-		UrlBasedViewResolver resolver = new UrlBasedViewResolver();
-		resolver.setPrefix("/WEB-INF/classes/public/");
-		resolver.setSuffix(".html");
-		return resolver;
-	}*/
-
-
-
 }
